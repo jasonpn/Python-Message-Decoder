@@ -1,0 +1,1 @@
+Python message decoder that takes in a text file, where each line contains a number and a word. When a pyramid pattern is constructed using the words according to its number value, a message is hidden in the ending of each pyramid line. Decoder constructs pyramid pattern using text file input and decodes the hidden message.
